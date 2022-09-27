@@ -1,0 +1,103 @@
+
+
+
+
+a:link {
+	text-decoration: none;
+	color: #0000EE; 
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+}
+
+th {
+  text-align: center;
+}
+
+
+body  {
+
+	background-size: 400px 400px;
+	background-color: white;
+	margin: 0px;
+	padding: 0px;
+	font-size: 1.25vw; 
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
+pre {
+	margin: 0px;
+	font-size: 1.25vw;
+	text-decoration: none;
+	overflow: hidden;
+	border-spacing: 1.25vw;
+}
+
+img {
+   image-orientation: from-image;/* Can be changed in the live sample */
+}
+
+
+.opt {
+	background-color: white;
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: black;
+	border-spacing: 0.5vw;
+	align: centre;
+	text-align: left;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
+.collapsible {
+	background-color: white;
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: black;
+	border-spacing: 0.5vw;
+	cursor: pointer;
+	align: centre;
+	text-align: left;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
+.optc {
+	background-color: white;
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: black;
+	display:none;
+	border-spacing: 0.5vw;
+	align: centre;
+	text-align: left;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
+.optw {
+	background-color: white;
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: black;
+	border-spacing: 0.5vw;
+
+	text-align: left;
+	width: 50%;
+	font-family:  -apple-system, BlinkMacSystemFont,  "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
+
+
+
+
+
+
