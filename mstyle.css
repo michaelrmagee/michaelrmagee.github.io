@@ -97,13 +97,13 @@ img {
 	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
 }
 
-
+.optb 	a:link {color: lightblue;}
+.optb   a:visited {color: lightblue;}
 .optb {
 	
     font-weight: normal;
 	font-size: 1.25vw;
 	color: white;
-	
 
 	text-align: left;
 	width: 50%;
