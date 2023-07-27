@@ -70,6 +70,17 @@ img {
 	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI",
 	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
 }
+.collapsible2 {
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: white;
+	border-spacing: 0.5vw;
+	cursor: pointer;
+	align: centre;
+	text-align: left;
+	font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
 
 .optc {
 	background-color: white;
@@ -97,6 +108,19 @@ img {
 	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
 }
 
+.abs {
+	background-color: white;
+    font-weight: normal;
+	font-size: 1.25vw;
+	color: black;
+	border-spacing: 0.5vw;
+	display:none;
+	text-align: left;
+	width: 100%;
+	font-family:  -apple-system, BlinkMacSystemFont,  "Segoe UI",
+	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
+}
+
 .optb 	a:link {color: lightblue;}
 .optb   a:visited {color: lightblue;}
 .optb {
@@ -106,7 +130,7 @@ img {
 	color: white;
 
 	text-align: left;
-	width: 50%;
+	width: 90%;
 	font-family:  -apple-system, BlinkMacSystemFont,  "Segoe UI",
 	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
 }
