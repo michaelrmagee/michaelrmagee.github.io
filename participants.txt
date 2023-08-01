@@ -1,0 +1,56 @@
+Aleksey Kostenko	University of Ljubljana and University of Vienna
+Alex Gamburd		CUNY Graduate Center
+Alexander Radcliffe	King's College London
+Ali Taheri		University of Sussex
+Anitej Banerjee		Durham University
+Anna Roig Sanchis	Sorbonne Université, IMJ-PRG
+Anshul Adve		Princeton
+Bram Petri		IMJ-PRG, Sorbonne Université
+Carsten Peterson	University of Michigan
+Dalimil Mazac		IAS Princeton
+Daniel Parra		University of Santiago of Chile
+Daniele Turchetti	University of Warwick
+Davide Macera		Durham University
+Doron Puder		Tel Aviv University
+Ewan Cassidy		Durham University
+Félix Lequen		CY Cergy Paris Université
+Fernando Galaz García	Durham University
+Frederic Naud		Sorbonne université
+Irving Calderon		Durham University
+Jack Shotton		Durham University
+Joe Thomas		Durham University
+John Parker		Durham University
+Julia Slipantschuk	University of Warwick
+Kai Akseli Hippi	Aalto University
+Katie Gittins		Durham University
+Kevin Boucher		University of Southampton
+Lawford Hatcher		Indiana University
+Madalena Lemos		Durham University
+Matan Seidel		Tel-Aviv University
+Michael Magee		Durham University
+Mikhail Belolipetsky	IMPA
+Nikhil Srivastava	UC Berkeley
+Nina Zubrilina		Princeton University
+Olaf Post		University of Trier
+Ori Parzanchevski	Hebrew University of Jerusalem
+Pankaj Vishe		Durham University
+Petr Kravchuk		King's College London
+Philipp Bartmann	University of Potsdam
+Rhiannon Dougall	Durham University
+Richard Sharp		University of Warwick
+Sabine Boegli		Durham University
+Sam Edwards		Durham University
+Sampo Paukkonen		Aalto University
+Sean Eberhard		Queen's University Belfast
+Shubham Gupta		Imperial College London
+Sinuhé Perea		King's College London
+Stefano Cremonesi	Durham University
+Tuomas Sahlsten		Aalto University
+Urban Jezernik		University of Ljubljana
+Ursula Hamenstadt	University of Bonn
+Vahideh Vahidifar	University of Sussex
+Wenyu Pan		University of Toronto
+Will Hide		Durham
+Yaozhong Qiu		Imperial College London
+Yotam Maoz		Tel Aviv University
+Yuzhen Cao		McGill University
