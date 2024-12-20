@@ -100,10 +100,10 @@ img {
     font-weight: normal;
 	font-size: 1.25vw;
 	color: black;
-	border-spacing: 0.5vw;
+	border-spacing: 1vw;
 
 	text-align: left;
-	width: 50%;
+	width: 70%;
 	font-family:  -apple-system, BlinkMacSystemFont,  "Segoe UI",
 	"Roboto", "Oxygen", "Ubuntu",  "Cantarell", Arial, sans-serif;
 }
